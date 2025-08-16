@@ -1042,7 +1042,7 @@ class _MarketScreenState extends State<MarketScreen> {
 
 ## 문제 해결 분석
 
-### 🚨 기존 문제점
+### 기존 문제점
 
 **기존 코드의 주요 문제**:
 
