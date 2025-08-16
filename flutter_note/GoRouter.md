@@ -1,6 +1,6 @@
 # Flutter 라우팅 노트: Navigator vs GoRouter
 
-## 🎯 Navigator (기본 라우터)
+## Navigator (기본 라우터)
 
 ### 정의
 
